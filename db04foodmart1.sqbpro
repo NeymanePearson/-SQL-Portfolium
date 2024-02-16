@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/tomma/Downloads/db04foodmart.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="10350"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,7:mainaccount"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="account" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="105"/><column index="2" value="145"/><column index="3" value="193"/><column index="4" value="127"/><column index="5" value="139"/><column index="6" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="117"/><column index="2" value="127"/><column index="3" value="113"/><column index="4" value="153"/><column index="5" value="52"/><column index="6" value="209"/><column index="7" value="88"/><column index="8" value="88"/><column index="9" value="88"/><column index="10" value="120"/><column index="11" value="138"/><column index="12" value="115"/><column index="13" value="76"/><column index="14" value="183"/><column index="15" value="109"/><column index="16" value="109"/><column index="17" value="91"/><column index="18" value="134"/><column index="19" value="135"/><column index="20" value="70"/><column index="21" value="130"/><column index="22" value="215"/><column index="23" value="152"/><column index="24" value="180"/><column index="25" value="128"/><column index="26" value="112"/><column index="27" value="116"/><column index="28" value="163"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="product" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="157"/><column index="2" value="104"/><column index="3" value="118"/><column index="4" value="300"/><column index="5" value="106"/><column index="6" value="52"/><column index="7" value="127"/><column index="8" value="108"/><column index="9" value="178"/><column index="10" value="76"/><column index="11" value="141"/><column index="12" value="155"/><column index="13" value="112"/><column index="14" value="118"/><column index="15" value="113"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="product_class" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="157"/><column index="2" value="194"/><column index="3" value="174"/><column index="4" value="188"/><column index="5" value="141"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="promotion" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="127"/><column index="2" value="198"/><column index="3" value="186"/><column index="4" value="189"/><column index="5" value="52"/><column index="6" value="162"/><column index="7" value="162"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sales_fact_1998" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="104"/><column index="2" value="75"/><column index="3" value="117"/><column index="4" value="127"/><column index="5" value="81"/><column index="6" value="108"/><column index="7" value="101"/><column index="8" value="98"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sales_fact_dec_1998" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="104"/><column index="2" value="75"/><column index="3" value="117"/><column index="4" value="127"/><column index="5" value="81"/><column index="6" value="108"/><column index="7" value="101"/><column index="8" value="98"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="store" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="81"/><column index="2" value="170"/><column index="3" value="92"/><column index="4" value="112"/><column index="5" value="131"/><column index="6" value="207"/><column index="7" value="109"/><column index="8" value="108"/><column index="9" value="170"/><column index="10" value="131"/><column index="11" value="140"/><column index="12" value="119"/><column index="13" value="109"/><column index="14" value="169"/><column index="15" value="171"/><column index="16" value="99"/><column index="17" value="120"/><column index="18" value="110"/><column index="19" value="98"/><column index="20" value="103"/><column index="21" value="112"/><column index="22" value="94"/><column index="23" value="138"/><column index="24" value="61"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="time_by_day" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="162"/><column index="3" value="92"/><column index="4" value="105"/><column index="5" value="86"/><column index="6" value="137"/><column index="7" value="132"/><column index="8" value="143"/><column index="9" value="73"/><column index="10" value="121"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">/*1*/
+
+select product_name, store_cost, store_sales
+from product as p, store as t, sales_fact_1998 as s
+where p.product_id=s.product_id and s.store_id=t.store_id and store_cost &gt; store_sales;
+/* NESSUNO*/
+/*2*/
+select promotion_name, SUM((store_sales-store_cost)*unit_sales) as guadagno
+from sales_fact_1998 as s, promotion as pr
+where s.promotion_id=pr.promotion_id and promotion_name &lt;&gt; &quot;No Promotion&quot;
+group by pr.promotion_id
+order by guadagno DESC;
+
+
+/*margine è un indicatore definito con qs formula: margine = (ricavo tot.– costo tot.) / ricavo tot.
+3. Individuate i 5 prodotti che offrono il margine maggiore (suggerimento: ordinate il risultato di una query e
+del risultato considerate solo le prime 5 tuple).
+4. Individuate le 5 categorie di prodotti che offrono il margine maggiore. La categoria di un prodotto è
+identificata dall’attributo ‘product_class.product_category’.
+5. Individuate i 5 settori merceologici del supermercato che offrono il margine maggiore. Il settore
+merceologico è identificata dall’attributo ‘product_class.product_department’.
+6. Come il punto precedente, tuttavia visualizzate i product_department che offrono un margine superiore al
+valore di 0,6 (60%)*/
+
+/*3*/
+
+select p.product_id, product_name, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from product as p, sales_fact_1998 as s
+where p.product_id = s.product_id
+group by p.product_id
+order by Margine DESC
+limit 5;
+
+
+/*4*/
+
+select p.product_id, product_category, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s join product as p join product_class as pc on (
+s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+group by pc.product_category
+order by Margine DESC
+limit 5;
+
+/*5*/
+
+select p.product_id, product_department, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s join product as p join product_class as pc on (
+s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+group by pc.product_department
+order by Margine DESC
+limit 5;
+/*6*/
+
+select p.product_id, product_department, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s join product as p join product_class as pc on (
+s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+
+group by pc.product_department
+Having (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) &gt; 0.6
+order by Margine DESC
+
+limit 5;
+
+/*a. Individuate per ogni negozio il ricavo conseguito vendendo i prodotti del settore merceologico “Prodotti
+in scatola” (valore “Canned Products” dell’attributo product_department della tabella product_class). La
+query deve visualizzare l’id del supermercato e il ricavo conseguente alla vendita dei prodotti del settore
+“Prodotti in scatola”. Per ogni supermercato deve apparire una sola riga.
+b. Come la query precedente, analizzando però il settore carni (valore “Meat” dell’attributo
+product_department della tabella product_class).*/
+
+/*7*/
+/*a*/
+select s.store_id, sum(store_sales*unit_sales) as Ricavo_scatola
+from store as t join sales_fact_1998 as s join product as p join product_class as pc on (
+s.store_id=t.store_id and s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+where product_department=&quot;Canned Products&quot;
+group by s.store_id;
+
+/*b*/
+
+select s.store_id, sum(store_sales*unit_sales) as Ricavo_carni
+from store as t join sales_fact_1998 as s join product as p join product_class as pc on (
+s.store_id=t.store_id and s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+where product_department=&quot;Meat&quot;
+group by s.store_id;
+
+/*c*/
+
+select a.store_id, a.Ricavo_scatola, c.Ricavo_carni, c.Ricavo_carni/a.Ricavo_scatola as Rapporto
+from (select s.store_id, sum(store_sales*unit_sales) as Ricavo_scatola
+from store as t join sales_fact_1998 as s join product as p join product_class as pc on (
+s.store_id=t.store_id and s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+where product_department=&quot;Canned Products&quot;
+group by s.store_id)
+as a,
+(select s.store_id, sum(store_sales*unit_sales) as Ricavo_carni
+from store as t join sales_fact_1998 as s join product as p join product_class as pc on (
+s.store_id=t.store_id and s.product_id=p.product_id and p.product_class_id=pc.product_class_id)
+where product_department=&quot;Meat&quot;
+group by s.store_id)
+as c
+where a.store_id=c.store_id;
+
+/*8*/
+
+select t. store_country, t.store_state, sum(store_sales*unit_sales) as Ricavo
+from sales_fact_1998 as s join store as t on (
+s.store_id = t.store_id)
+group by t.store_state
+order by Ricavo DESC
+limit 5;
+
+/*9*/
+
+select p.product_id, product_name, sum((store_sales-store_cost)*unit_sales) as Guadagno
+from sales_fact_1998 as s join product as p join time_by_day as t on (
+p.product_id = s.product_id and t.time_id = s.time_id)
+where the_year= 1998
+group by p.product_id
+order by Guadagno DESC
+limit 5;
+
+/*10*/
+
+select t.store_id, sum((store_sales-store_cost)*unit_sales)/sum(unit_sales) as Rapporto
+from store as t join sales_fact_1998 as s on(
+t.store_id = s.store_id)
+where store_type= &quot;Supermarket&quot;
+group by t.store_id
+order by Rapporto DESC
+limit 5;
+
+
+/*11*/
+
+select c.member_card, sum((store_sales-store_cost)*unit_sales)  as Utile
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id )
+group by c.member_card
+order by Utile DESC 
+limit 5;
+
+
+/*12*/
+
+/*
+a. Visualizzate per ogni coppia &lt;supermercato, settore merceologico&gt; il margine corrispondente (i
+supermercati sono identificati dall’attributo store.store_id mentre i settori merceologici sono
+identificati product_class.product_department). Tenete presente che il margine non è una grandezza
+additiva (per calcolare il margine di un insieme di record di vendita non si possono sommare i
+margini dei singoli record, ma occorre calcolare sia l’utile totale sia il ricavo totale dell’insieme dei
+record considerati e infine effettuare la divisione). Facoltativo: nei risultati, accanto allo store_id,
+visualizzate anche la tipologia del supermercato (attributo store.store_type).*/
+
+/*a*/
+
+select s.store_id, store_type, product_department, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s, product as p, product_class as pc, store as t
+where s.store_id =t.store_id and p.product_id=s.product_id and p.product_class_id = pc.product_class_id
+group by s.store_id, pc.product_department
+limit 5;
+/*
+b. Visualizzate per ogni coppia &lt;tipologia supermercato, settore merceologico&gt; il margine
+corrispondente. Questa query deve calcolare il margine di un certo settore merceologico per tutti i
+supermercati di una stessa tipologia. In questo sottopunto, i record di vendita (utilizzati per calcolare
+il margine) vanno raggruppati diversamente rispetto al sottopunto precedente.*/
+/*b*/
+select s.store_id, store_type, product_department, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s, product as p, product_class as pc, store as t
+where s.store_id =t.store_id and p.product_id=s.product_id and p.product_class_id = pc.product_class_id
+group by t.store_type, pc.product_department
+limit 5;
+/*c*/
+select a.store_id, a.store_type, a.product_department, a.Margine as Margine1, b.Margine as Margine2
+from(select s.store_id, store_type, product_department, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s, product as p, product_class as pc, store as t
+where s.store_id =t.store_id and p.product_id=s.product_id and p.product_class_id = pc.product_class_id
+group by s.store_id, pc.product_department)
+as a,
+(select s.store_id, store_type, product_department, (sum(store_sales*unit_sales)-sum(store_cost*unit_sales))/sum(store_sales*unit_sales) as Margine
+from sales_fact_1998 as s, product as p, product_class as pc, store as t
+where s.store_id =t.store_id and p.product_id=s.product_id and p.product_class_id = pc.product_class_id
+group by t.store_type, pc.product_department)
+as b
+where a.store_type = b.store_type and a.product_department=b.product_department 
+group by a.store_id, a.store_type, a.product_department
+having (Margine1 &lt; (Margine2*0.96))
+limit 10;
+
+
+/*13*/
+/*a. Visualizzate, per ogni product_id, le quantità vendute nel primo trimestre del 1998. Le informazioni
+sul trimestre si trovano in time_by_day.quarter, il primo trimestre è ’Q1’, il secondo trimestre è ‘Q2’,
+…). Nel risultato potete limitarvi a visualizzare il product_id, non serve il product_name. Per ogni
+product_id deve essere visualizzata una sola riga nella tabella risultato.*/
+
+select p.product_id, sum(unit_sales) as Q_1
+from sales_fact_1998 as s join time_by_day as t join product as p on (
+s.product_id=p.product_id and t.time_id = s.time_id)
+where t.quarter = &quot;Q1&quot; and the_year=1998
+group by p.product_id
+limit 10;
+
+
+/*
+b. Visualizzate, per ogni product_id, le quantità vendute in tutto il 1998. Nel risultato potete limitarvi a
+visualizzare il product_id, non serve il product_name. Per ogni product_id deve essere visualizzata una
+sola riga nella tabella risultato.
+*/
+select p.product_id, sum(unit_sales) as Qtot
+from sales_fact_1998 as s join time_by_day as t join product as p on (
+s.product_id=p.product_id and t.time_id = s.time_id)
+where the_year=1998
+group by p.product_id
+limit 10;
+
+/*c  Usando le due query
+precedenti come sottoquery, visualizzate, per ogni product_id, la quantità di beni venduta nel 1°
+trimestre, la quantità di beni venduta in tutto l’anno, e il rapporto tra queste due quantità. Visualizzate i
+risultati in ordine crescente rispetto a product_id. Nel risultato potete limitarvi a visualizzare il
+product_id, non serve il product_name. Se usate SQLITE, moltiplicate per 1.0 il numeratore (in modo
+da non ottenere un risultato solamente intero)*/
+
+select a.product_id, a.Q_1, b.Qtot, (a.Q_1*(1.0))/b.Qtot as Rapporto
+from (select p.product_id, sum(unit_sales) as Q_1
+from sales_fact_1998 as s join time_by_day as t join product as p on (
+s.product_id=p.product_id and t.time_id = s.time_id)
+where t.quarter = &quot;Q1&quot; and the_year=1998
+group by p.product_id)
+as a,
+(select p.product_id, sum(unit_sales) as Qtot
+from sales_fact_1998 as s join time_by_day as t join product as p on (
+s.product_id=p.product_id and t.time_id = s.time_id)
+where the_year=1998
+group by p.product_id)
+as b
+where a.product_id = b.product_id
+order by a.product_id
+limit 10;
+
+
+
+/*14*/
+/*a. Visualizzate, per ogni customer_id, il numero medio di quantità acquistate per transazione. Una
+transazione corrisponde ad un singolo record della tabella sales_fact_1998. Nel risultato potete
+limitarvi a visualizzare il customer_id, non servono i nomi e cognomi dei clienti. Per ogni customer_id
+deve essere visualizzata una sola riga nella tabella risultato.*/
+
+select s.customer_id, avg(unit_sales) as media_q
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)
+group by s.customer_id
+limit 10;
+
+select customer_id, unit_sales
+from sales_fact_1998
+where customer_id = 3;
+
+
+
+/*
+b. [NB: query annidate] Visualizzate, per ogni customer_id il numero di transazioni effettuate (cioè il n.
+di record di sales_fact_1998) in cui il cliente ha acquistato un numero di beni superiore alla quantità
+mediamente acquistata dal cliente nelle sue transazioni (in altre parole, ogni cliente avrà una media
+diversa). Si suggerisce di calcolare in una sottoquery le quantità medie per transazione dei clienti.
+Ordinate il risultato in ordine crescente rispetto al customer_id.*/
+
+select a.customer_id, count() as n
+from (select s.customer_id, avg(unit_sales) as media_q
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)
+group by s.customer_id)
+as a, 
+(select s.customer_id, s.unit_sales
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)) as b
+where a.customer_id = b.customer_id and a.media_q &lt; b.unit_sales
+group by a.customer_id
+order by a.customer_id ASC
+limit 10;
+
+
+/*
+c. [NB: query annidate] Arricchite la query del punto precedente visualizzando anche, per ogni cliente, il
+numero totale delle transazioni effettuate e il rapporto tra numero di transazioni in cui si è acquistata
+una quantità superiore alla media e numero di transazioni totali. Per farlo, si suggerisce di aggiungere
+alla query precedente una sottoquery che calcola, per ogni customer_id, il numero totale di transazioni
+svolte. Ordinate il risultato in ordine crescente rispetto al customer_id.*/
+
+
+select s.customer_id, count() as n_transazioni
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)
+group by s.customer_id
+limit 10;
+
+
+select x.customer_id, x.n, y.n_transazioni, (x.n*1.0)/(y.n_transazioni) as Rapporto
+from (select a.customer_id, count() as n
+from (select s.customer_id, avg(unit_sales) as media_q
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)
+group by s.customer_id)
+as a, 
+(select s.customer_id, s.unit_sales
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)) as b
+where a.customer_id = b.customer_id and a.media_q &lt; b.unit_sales
+group by a.customer_id
+order by a.customer_id ASC)
+as x,
+(select s.customer_id, count() as n_transazioni
+from customer as c join sales_fact_1998 as s on (
+c.customer_id = s.customer_id)
+group by s.customer_id)
+as y 
+where x.customer_id = y.customer_id
+group by x.customer_id
+order by x.customer_id
+limit 10 ;
+
+
+
+
+
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
